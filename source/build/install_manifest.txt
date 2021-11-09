@@ -1,0 +1,17 @@
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/lib/libdeepmd_op.so
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/lib/libdeepmd_op_cuda.so
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/lib/libdeepmd.so
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/version.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/ComputeDescriptor.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/DataModifier.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/DeepTensor.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/Ewald.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/MathUtilities.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/MathUtilities_Impl.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/NNPAtomMap.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/NNPInter.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/NeighborList.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/SimulationRegion.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/SimulationRegion_Impl.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/Stopwatch.h
+/home/xuben/soft/deepmd-kit-1.2.2-gpu/deepmd_root/include/deepmd/common.h
